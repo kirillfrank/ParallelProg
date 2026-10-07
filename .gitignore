@@ -1,0 +1,19 @@
+# Build artefacts
+*.o
+*.exe
+*.out
+dot_product
+
+# Generated data
+input_*.txt
+output_*.txt
+results.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
